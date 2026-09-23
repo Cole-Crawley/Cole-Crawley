@@ -22,4 +22,5 @@ Each project has a full case study in the [portfolio](https://colecrawley.vercel
 ---
 
 **Design:** user journeys · information architecture · usability testing and heuristic evaluation · UX writing · visual and interaction design · accessibility
+
 **Front-end:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Flutter

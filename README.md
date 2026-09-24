@@ -24,3 +24,5 @@ Each project has a full case study in the [portfolio](https://colecrawley.com).
 **Design:** user journeys · information architecture · usability testing and heuristic evaluation · UX writing · visual and interaction design · accessibility
 
 **Front-end:** HTML · CSS · JavaScript · TypeScript · React · Next.js · Vite · Flutter
+
+**Certified:** [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/4584934b-da46-40fe-9dec-369d7ecda679/public_url) · [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/5a05e486-d52f-4220-aad4-125f39562959/public_url)

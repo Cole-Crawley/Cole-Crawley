@@ -2,7 +2,7 @@
 
 I work out how a website or app should flow, design how it looks and reads, and test it against real use. I can build what I design too, so I spot a platform's limits early. MSc Computer Science, University of Lincoln.
 
-**[Portfolio](https://colecrawley.com)** · **[CV](https://colecrawley.com/cv/Cole_Crawley_CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/cole-crawley-4aa18737a/)** · colecrawleyuk@gmail.com
+**[Portfolio](https://colecrawley.com)** · **[CV](https://colecrawley.com/cv/Cole_Crawley_CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/colecrawley/)** · colecrawleyuk@gmail.com
 
 ---
 

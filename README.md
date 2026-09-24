@@ -12,7 +12,7 @@ I work out how a website or app should flow, design how it looks and reads, and 
 |---|---|---|---|
 | **MMDriving** | A website for a local driving instructor. Client work | [Live site](https://mmdriving-snowy.vercel.app) | [mmdriving](https://github.com/Cole-Crawley/mmdriving) |
 | **Distill** | A study app that turns reading into summaries, flashcards and a knowledge map. MSc dissertation | [Try it](https://distill-study.vercel.app) | [distill](https://github.com/Cole-Crawley/distill) |
-| **Card Scanner** | A phone app that recognises a Pokémon card from a photo and prices it. BSc dissertation | Phone app | [pokemon-card-scanner](https://github.com/Cole-Crawley/pokemon-card-scanner) |
+| **Card Scanner** | A phone app that recognises a Pokémon card from a photo and prices it. BSc dissertation, awarded a First | Phone app | [pokemon-card-scanner](https://github.com/Cole-Crawley/pokemon-card-scanner) |
 | **BaconAI** | A travel planner that lays out each day of a trip beside a live map | [Try it](https://aitravelplanner-snowy.vercel.app) | [baconai](https://github.com/Cole-Crawley/baconai) |
 | **CodeMarker** | A code reviewer that marks your code like an exam paper, in plain English | [Try it](https://codemarker.vercel.app) | [codemarker](https://github.com/Cole-Crawley/codemarker) |
 | **Portfolio** | This portfolio, laid out like a volume of manga | [Visit](https://colecrawley.vercel.app) | [portfolio](https://github.com/Cole-Crawley/portfolio) |
